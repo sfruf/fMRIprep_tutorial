@@ -1,5 +1,5 @@
 # fMRIprep_tutorial
-A brief tutorial with some lessons learned from setting up fMRIprep that I gave to collaborators.
+A brief tutorial that I gave to collaborators with some lessons learned from setting up fMRIprep.
 
 Files included:
 * install_fmriprep.slurm: slurm job file to set up fmriprep
